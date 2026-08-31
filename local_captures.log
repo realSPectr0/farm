@@ -1,0 +1,14 @@
+2026-08-31 16:46:27.932182 | KEYSTROKE: {"key": "l", "target": "username"}
+2026-08-31 16:46:28.031423 | KEYSTROKE: {"key": "u", "target": "username"}
+2026-08-31 16:46:28.155299 | KEYSTROKE: {"key": "c", "target": "username"}
+2026-08-31 16:46:28.340142 | KEYSTROKE: {"key": "s", "target": "username"}
+2026-08-31 16:46:28.663695 | KEYSTROKE: {"key": "Backspace", "target": "username"}
+2026-08-31 16:46:28.872183 | KEYSTROKE: {"key": "a", "target": "username"}
+2026-08-31 16:46:28.901954 | KEYSTROKE: {"key": "s", "target": "username"}
+2026-08-31 16:46:28.974195 | KEYSTROKE: {"key": " ", "target": "username"}
+2026-08-31 16:46:30.451793 | KEYSTROKE: {"key": "s", "target": "password"}
+2026-08-31 16:46:30.462607 | KEYSTROKE: {"key": "i", "target": "password"}
+2026-08-31 16:46:30.642457 | KEYSTROKE: {"key": "g", "target": "password"}
+2026-08-31 16:46:30.694352 | KEYSTROKE: {"key": "a", "target": "password"}
+2026-08-31 16:46:30.773672 | KEYSTROKE: {"key": "y", "target": "password"}
+2026-08-31 16:46:31.607528 | FINAL_CREDS: {"user": "lucas ", "pass": "isgay"}
